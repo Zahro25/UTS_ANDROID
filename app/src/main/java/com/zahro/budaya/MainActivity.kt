@@ -16,9 +16,7 @@ class MainActivity : AppCompatActivity() {
     private fun mainButton(){
         sulawesi.setOnClickListener {
             startActivity(Intent(this,SulawesiActivity::class.java))
-
         }
-        // kegunaan intent adalah untuk bertransisi/berpindah dari activity satu ke activity lain
         kalimantan.setOnClickListener {
             startActivity(Intent(this,KalimantanActivity::class.java))
         }
