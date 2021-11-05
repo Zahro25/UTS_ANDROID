@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/drawable-v24/background_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/drawable-v24/round_bg.xml" value="0.2203125" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_detail.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_detail_kalimantan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_detail_papua.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_detail_sulawesi.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_detail_sumatera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_jawa.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_kalimantan.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_papua.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_splash.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_sulawesi.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/activity_sumatera.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/User/AndroidStudioProjects/Budaya/app/src/main/res/layout/list_item.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
